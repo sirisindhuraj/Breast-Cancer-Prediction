@@ -1,4 +1,4 @@
-# Breast Cancer Wisconsin ML Project
+# Breast Cancer Wisconsin Project
 
 ## 🧪 Project Overview
 This project uses the **Breast Cancer Wisconsin dataset** to predict whether a tumor is **malignant or benign** using Machine Learning algorithms. It compares three ensemble models:
